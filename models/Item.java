@@ -15,7 +15,7 @@ public class Item {
     private int quantitySold;
     private String image;
 
-    
+        
     // GETTERS
 
     public String getName() {
